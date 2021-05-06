@@ -1,0 +1,7 @@
+__title__ = 'workshopse-story-generator'
+__version__ = '0.0.1'
+__author__ = 'Pepijn Hijzen'
+__author_email__ = 'phijzen@gmail.com'
+__description__ = 'API example for a workshop.'
+__url__ = 'https://github.com/phijzen/story-generator'
+__license__ = 'MIT'
